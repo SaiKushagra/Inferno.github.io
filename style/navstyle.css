@@ -1,0 +1,169 @@
+body {
+
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#nav
+{
+  box-shadow: 0 3px 4.8px -3px rgba(0,0,0,.2);
+  width: 100%;
+  float: left;
+}
+#headcomp
+{
+  display: block;
+  float: left;
+  padding-bottom: .4%;
+}
+#new
+{
+  background-color: #e96c21;
+
+position: relative;
+
+width: 22%;
+
+border: 1px solid #e96c21;
+
+border-radius: 50px;
+
+font-size: 9px;
+
+color: white;
+
+bottom: 43px;
+
+left: 133px;
+}
+.headcomp1
+{
+border: 1px solid #e96c21;
+
+margin-top: 1.09%;
+
+text-align: center;
+
+border-radius: 50px;
+
+margin-left: 7%;
+
+width: 11%;
+
+padding-left: .5%;
+
+padding-right: .2%;
+}
+#head
+{
+  font-family: 'Gothic A1', sans-serif;
+  padding-right: 3%;  
+  font-size: 53px; 
+}
+
+#headdiv
+{
+  padding-top: 5%;
+}
+i {
+    border: solid #e96c21;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 2px;
+    position: relative;
+bottom: 3px;
+
+}
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+} 
+#holiday
+{
+  font-family: 'Gothic A1', sans-serif;
+  border-bottom: 2px solid #e96c21;
+
+  display: inline-block;
+}
+
+#number
+{
+  font-style: bold;   
+  font-size:14px;
+  padding-left: 4%
+}
+
+#aero1
+{
+  margin-left: 0%;
+  margin-top: 4%;
+  width: 96%;
+  height:20px;
+}
+
+
+#aero2
+{
+  text-decoration: none;
+  padding-left: 2%;
+}
+
+#aero3
+{
+  padding-right:1%;
+  position: relative;
+  top: 2px; 
+}
+#headnum
+{
+  padding-left: 39%;
+  padding-top: 10%;
+  display: inline-block;
+  width: 100%;
+}
+#logo
+{
+  width: 4.9%;
+
+float: left;
+
+position: relative;
+
+left: 8.6%;
+
+bottom: 62px;
+}
+
+#navul
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  padding-left: 30.2%;
+
+  width: 109%;
+  padding-top: 1%;
+}
+
+#navul li
+{
+display: inline-block;
+
+padding-top: 1.8%;
+
+padding-bottom: 1.5%;
+
+padding-right: 3%;
+
+font-family: 'Karla', sans-serif;
+}
+
+li a
+{
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: 'Karla', sans-serif;
+  font-weight: 400;
+}

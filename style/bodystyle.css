@@ -1,0 +1,471 @@
+#detail
+{
+	list-style-type: none;
+ 	padding-left: 19.6%;
+  	position: relative;
+  	bottom: 9px;
+}
+#detail li
+{
+	float: left;
+	padding-right: 3.5%;
+	margin: 0;
+	display: block;
+}
+#innerli
+{
+	padding-left: 0%;
+	position: relative;
+	bottom: 10px;
+}
+
+#topimg
+{
+	/*images are not properly oriented in the section */
+	position: relative;
+	right: 10%;
+}
+#div1
+{	width: 53.9%;
+	float: left;   
+
+}
+#div2
+{
+	float: left;
+	padding-top: 4.5%;
+	width: 4.3%;
+	
+}
+#div3
+{
+	overflow: hidden;
+	width: 41.8%;
+	display: block;
+}
+#outerDiv
+{
+}
+#img_1
+{
+	width: 100%;
+	height: 100%;
+}
+#img_2
+{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+#city
+/*floated left*/
+{
+	max-width: 33.226%;
+	float: left;	
+	/*hidden overflow hide the excess of the div outside a certain limits*/
+	overflow: hidden;
+	margin-right: .1%;
+}
+#img_3:hover
+{
+	/*Image is going out of the box after animaiton and not alined*/
+	transform: scale(1.1, 1.1);
+	
+}
+
+#img_3
+{
+	overflow: hidden;
+	vertical-align: top;
+	transition: all 0.5s ease 0s;
+	width: 100%;
+	margin-bottom: 1px;
+}
+#package-detail
+{
+	position: absolute;
+	z-index: 1;
+	padding-left: 1.42%;
+	padding-top: .1%
+
+}
+#package-detail p
+{
+	font-size: 10px;
+	font-family: 'IBM Plex Sans', sans-serif;
+	color: white;
+	position: relative;
+	bottom: 20px;
+
+}
+#package-detail h3
+{
+	font-size: 22px;
+	color: white;
+	font-family: 'IBM Plex Sans', sans-serif;
+	text-shadow: -2px 0px 20px rgba(0,0,0,0.75);
+}
+#plan{
+    background-color: #f46603;
+width: 17%;
+height: 50px;
+display: inline-block;
+border-radius: 50px;
+position: fixed;
+left: 82.5%;
+bottom: -1%;
+z-index: 5;
+border: 2px solid #f69d5f;
+}
+#plantext
+{
+	margin-left: 13%;
+
+width: 37%;
+
+position: relative;
+
+top: 26%;
+
+color: white;
+
+font-size: 13px;
+
+font-weight: bolder;
+}
+#arrow
+{
+	padding-left: 5%;	
+}
+#desc1
+{
+	text-align:center;
+}
+#desc2
+{
+	margin: 2% 14% 0% 14%;
+}
+#desc2 p
+{
+	color: #80838d;
+	font-family: 'Gothic A1', sans-serif;
+	font-size: 15px;
+}
+#desc2 h2
+{
+	color: #394048;
+	font-size: 27px;
+}
+#desc2 img
+{
+	padding-bottom: 2%;
+}
+#view-package
+{
+	background-color: #f46603;
+	width: 12%;
+	margin-left: 44%;
+	display: block;
+	padding-bottom: 1%;
+	padding-top: 1%;
+	border-radius: 50px;
+	color: white;
+	font-size: 12px;
+	font-weight: bold
+}
+#tour-package
+{
+	background-color: #f8f8f9;
+    height: 722px;
+}
+#dash
+{
+	padding-bottom: 1%;
+}
+#packages-head
+{
+	font-size: 25px;	
+	font-family: 'Gothic A1', sans-serif;
+	font-weight: 600;
+	padding-top: 1%;
+}
+#tour-package-container
+{
+	margin-left: 8%;	
+}
+#container1
+{
+	width: 100%;	
+}
+#container2
+{
+	width: 100%;
+	margin-top:-7%;
+}
+#tour-package-div1
+{
+	padding-right: 2%;
+	margin: 0;
+	display: inline-block;
+    
+}
+#descdiv
+{
+	position: relative;
+bottom: 139px;
+padding-left: 8%;
+background: url(../images/blackshade.png);
+		
+}
+#tour-package-arrow
+{
+	position: relative;
+	left: 85%;
+	bottom: 34px;
+}
+#descdiv h4
+{
+	color: white;
+font: 11px/0px 'arial';
+text-transform: uppercase;
+font-weight: bold;
+}
+#descdiv h3
+{
+	color: white;
+position: relative;
+top: 33px;
+font: 14px/70px 'arial';
+text-transform: uppercase;
+}
+#container1-tour
+{
+    width: 100%;
+
+height: 433px;
+
+display: block;
+
+overflow: hidden;
+}
+#inside
+{
+position: relative;
+
+text-align: center;
+
+bottom: 259px;
+
+left: 0px;
+
+width: 100%;
+
+overflow: hidden;
+
+height: 255px;
+}
+#divnumber
+{
+    width: 100%;
+
+display: block;
+
+height: 39px;
+
+padding-top: 16px;
+
+text-align: center;
+
+position: relative;
+
+top: -43px;
+}
+#slideup
+{
+    position: relative;
+
+top: 29%;
+
+-moz-transition: all 1s ease 0s;
+
+transition: all 1s ease 0s;
+
+-webkit-transition: all 1s ease 0s;
+
+-ms-transition: all 1s ease 0s;
+
+-o-transition: all 1s ease 0s;
+}
+#slideup h3
+{
+    color: white;
+    text-transform: uppercase;
+    font: 15px/30px arial;
+    font-weight: bold;
+}
+#view
+{
+   text-decoration: none;
+
+border-radius: 3px;
+
+color: #fff;
+
+background: #f46603 none repeat scroll 0;
+
+margin-left: -11px;
+
+display: block;
+
+height: 35px;
+
+width: 38%;
+
+text-align: center;
+
+padding-top: 9px;
+
+font: 13px/24px arial;
+
+    font-weight: normal;
+
+font-weight: normal;
+
+font-weight: bold;
+
+position: relative;
+
+top: 14px;
+
+left: 103px;
+}
+#tour-package-div1:hover #slideup
+{
+    top: -19%;
+}
+#backimage
+{
+background: url("../images/squar.png") no-repeat scroll 0 0;
+
+height: 53px;
+
+position: relative;
+
+left: 121px;
+
+top: 9px;
+}
+#gen-details
+{
+    background-color: #f8f8f9;
+width: 100%;
+}
+#quesdiv
+{
+    width: 26%;
+margin-left: 3.4%;
+margin-right: 3%;
+display: inline-block;
+vertical-align: top; 
+}
+#detail-con
+{
+    margin: auto;
+width: 85%;
+}
+#container-div
+{
+    display: block;
+width: 100%;
+}
+#quesimg
+{
+    display: block;
+
+margin-left: auto;
+
+margin-right: auto;
+
+width: 31%;
+    transition: all 0.5s ease 0s;
+-webkit-transition: all 0.5s ease 0s;
+-moz-transition: all 0.5s ease 0s;
+-ms-transition: all 0.5s ease 0s;
+-o-transition: all 0.5s ease 0s;
+}
+#quesdiv h3
+{ 
+    text-align: center;
+}
+#quesdiv p
+{ 
+    text-align: justify;
+    font: 18px/27px "open_sansregular";
+color: #656e77;
+}
+#quesdiv:hover #quesimg
+{
+    -moz-transform: translateY(-8px);
+-ms-transform: translateY(-8px);
+-o-transform: translateY(-8px);
+-webkit-transform: translateY(-8px);
+}
+
+#about-div1
+{
+   width: 47%;
+float: left;    
+}
+#about-div2
+{
+    width: 34%;
+float: left;
+margin-left: 7%;
+}
+#about-container
+{   
+    width: 100%;
+margin-left: 10.4%;
+}
+#about-div p
+{
+    
+}
+#section
+{
+    width: 67%;
+}
+#section-div
+{
+    float: left;
+
+padding-top: 7%;
+
+padding-left: 14%;
+
+display: block;
+
+height: 75px;
+
+margin-top: 9%;
+}
+#section-div p
+{
+    font-size: 19px;
+
+text-transform: uppercase;
+}
+#section-div h3
+{
+    text-transform: uppercase;
+
+font: 25px/0px arial;
+
+margin: 0;
+
+padding-top: 8px;
+}
+#about-div2 img
+{
+    float: left;
+}
